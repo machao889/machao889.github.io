@@ -23,7 +23,7 @@ repository               : "machao889/machao889.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/mc.png"
+  avatar           : "machao889.github.io/images/mc.png"
   name             : "Ma Chao"
   pronouns         : # example: "she/her"  
   bio              : "Love of freedom"
